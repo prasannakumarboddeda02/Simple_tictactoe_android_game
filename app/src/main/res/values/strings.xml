@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tic tac toe</string>
+    <string name="Enter_player_names">Enter player names</string>
+    <string name="editTextPlayerOne">Player One name</string>
+    <string name="editTextPlayerTwo">Player Two name</string>
+    <string name="start_game">Start</string>
+    <string name="noImage">No Image</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="reset">Reset</string>
+    <string name="StartAgain">Start Again</string>
+</resources>
